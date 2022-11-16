@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d97035d1-345a-4b18-9b03-675161ebb61b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a10_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a11_assignment01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a12_assignment02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a13_assignment03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a14_assignment04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a15_assignment05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a1_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a2_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a3_DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a4_Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a5_Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a6_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a7_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a8_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/a9_doWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -53,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668499060141</updated>
       <workItem from="1668499061266" duration="378000" />
+      <workItem from="1668600745608" duration="3122000" />
     </task>
     <servers />
   </component>
