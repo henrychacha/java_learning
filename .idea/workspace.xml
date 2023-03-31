@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d97035d1-345a-4b18-9b03-675161ebb61b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a10_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a11_assignment01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a12_assignment02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a13_assignment03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a14_assignment04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a15_assignment05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a1_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a2_input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a3_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a4_Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a5_Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a6_If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a7_switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a8_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/a9_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/a1_const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a10_assign_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a11_assign_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a12_assign_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a13_assign_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a1_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a2_arrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a3_defineFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a4_exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a5_findArrayIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a6_max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a7_mathodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a8_operateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/a9_assign_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668499060141</updated>
       <workItem from="1668499061266" duration="378000" />
-      <workItem from="1668600745608" duration="3122000" />
+      <workItem from="1668600745608" duration="8978000" />
+      <workItem from="1680258244495" duration="572000" />
     </task>
     <servers />
   </component>
